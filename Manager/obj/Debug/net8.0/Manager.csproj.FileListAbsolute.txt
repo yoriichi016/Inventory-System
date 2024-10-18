@@ -1,0 +1,16 @@
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\bin\Debug\net8.0\Manager.deps.json
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\bin\Debug\net8.0\Manager.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\bin\Debug\net8.0\Manager.pdb
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\bin\Debug\net8.0\Model.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\bin\Debug\net8.0\Model.pdb
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.csproj.AssemblyReference.cache
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.AssemblyInfoInputs.cache
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.AssemblyInfo.cs
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.csproj.CoreCompileInputs.cache
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.sourcelink.json
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.csproj.Up2Date
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\refint\Manager.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\Manager.pdb
+C:\Users\arvye\Source\Repos\InventorySystem\Manager\obj\Debug\net8.0\ref\Manager.dll

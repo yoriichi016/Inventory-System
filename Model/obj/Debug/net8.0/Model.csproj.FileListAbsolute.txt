@@ -1,0 +1,12 @@
+C:\Users\arvye\Source\Repos\InventorySystem\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\arvye\Source\Repos\InventorySystem\Model\bin\Debug\net8.0\Model.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.sourcelink.json
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\arvye\Source\Repos\InventorySystem\Model\obj\Debug\net8.0\ref\Model.dll
