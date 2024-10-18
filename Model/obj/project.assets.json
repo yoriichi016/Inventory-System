@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arvye\\Source\\Repos\\InventorySystem\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\Users\\arvye\\Source\\Repos\\Inventory-System\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\arvye\\Source\\Repos\\InventorySystem\\Model\\Model.csproj",
+      "projectPath": "C:\\Users\\arvye\\Source\\Repos\\Inventory-System\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\arvye\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arvye\\Source\\Repos\\InventorySystem\\Model\\obj\\",
+      "outputPath": "C:\\Users\\arvye\\Source\\Repos\\Inventory-System\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arvye\\AppData\\Roaming\\NuGet\\NuGet.Config",
